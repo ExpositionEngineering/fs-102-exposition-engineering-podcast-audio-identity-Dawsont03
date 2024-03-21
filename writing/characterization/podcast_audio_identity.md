@@ -22,7 +22,9 @@
 <!---toc end-->
 
 ## Add Your Name Here
+
 Dawson Thomas
+
 ## Re-type the sentence "I adhered to the Allegheny College Honor Code while completing this project."
 
 You must retype the sentence here in order to digitally sign your pledge.
@@ -91,6 +93,7 @@ Matt and Shane's Secret Podcast, their audio smaples a song that summarizes the 
 ### Q6: What is the license under which it is possible to use your chosen audio on the podcast?
 
 Provide a clear statement of the license for the chosen audio.
+
 [Link](https://policies.google.com/terms/generative-ai)
 
 ## ✨ Details about the Podcast's Intro and Outro Music
