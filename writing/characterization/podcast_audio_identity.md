@@ -21,9 +21,7 @@
 
 <!---toc end-->
 
-## Add Your Name Here
-
-Dawson Thomas
+## Dawson Thomas
 
 ## Re-type the sentence "I adhered to the Allegheny College Honor Code while completing this project."
 
