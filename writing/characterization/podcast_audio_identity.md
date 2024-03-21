@@ -35,6 +35,8 @@ while completing the project.
 
 ## 🎤 Podcast Title
 
+Major Breakthroughs
+
 **Important**: You must describe your podcast's audio identity around the name
 of either **Major Breakthroughs** or **Major Muses** since the podcast's
 managing editor decided that these are the two most viable titles. Please do
@@ -68,24 +70,29 @@ Provide a list of keywords that describe your podcast's audio
 - Chill
 - Soft
 - Underwhelming
+
 ### Q2: What are the some of the sonic styles that you hear in the chosen podcast audio?
 
 Answer the question "How would you describe the chosen audio's sonic styles in one or two sentences?""""
 
 I will use the same audio for the intro and outro, so the sonic style should be the same for both. Fade out on both.
+
 ### Q3: Who is the target audience that will most identify with your chosen audio?
 
 Provide a one or two sentence description of the podcast's target audience.
+
 The target audience is someone who is listening to teh podcast in a calm environment.
 
 ### Q4: What makes your podcast audio special and different from other podcast audio tracks you have heard?
 
 Provide one or two sentences that describe the unique aspects of your podcast.
+
 In my audio, there is a ukulele which I doubt others have.
 
 ### Q5: What are other podcasts that inspire you and what do you like about their music?
 
 Provide one or two sentences that describe the unique aspects of your podcast.
+
 Matt and Shane's Secret Podcast, their audio smaples a song that summarizes the randomness of their podcast.
 
 ### Q6: What is the license under which it is possible to use your chosen audio on the podcast?
