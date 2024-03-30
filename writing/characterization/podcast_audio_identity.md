@@ -21,19 +21,21 @@
 
 <!---toc end-->
 
-## Add Your Name Here
+## Dawson Thomas
 
 ## Re-type the sentence "I adhered to the Allegheny College Honor Code while completing this project."
 
-TODO: You must retype the sentence here in order to digitally sign your pledge.
+You must retype the sentence here in order to digitally sign your pledge.
 
-"I adhered to the Allegheny College Honor Code while completing this project."
+I adhered to the Allegheny College Honor Code while completing this project.
 
 **IMPORTANT:** If you do not type the required sentence then the course
 instructor will not know that you adhered to the Allegheny College Honor Code
 while completing the project.
 
 ## 🎤 Podcast Title
+
+Major Breakthroughs
 
 **Important**: You must describe your podcast's audio identity around the name
 of either **Major Breakthroughs** or **Major Muses** since the podcast's
@@ -45,7 +47,7 @@ part of this assignment.
 
 ## 🧗 Reading Assignment
 
-TODO: Read the following articles and/or try out the following tools to learn
+Read the following articles and/or try out the following tools to learn
 more podcast audio for intro and outro music.
 
 - [The Amazing List of (Actually) 100% Free Music!](https://www.silvermansound.com/the-amazing-list-of-free-music)
@@ -55,52 +57,69 @@ more podcast audio for intro and outro music.
 - [Pixabay Royal Free Music](https://pixabay.com/music/)
 - [MusicFX from the Google AI Test Kitchen](https://aitestkitchen.withgoogle.com/tools/music-fx)
 
-TODO: Before getting started on this assignment make sure that you understand how to
+Before getting started on this assignment make sure that you understand how to
 license music for use in a podcast.
 
 ## 📓  Details About the Podcast's Audio Identity
 
-TODO: Answer the following questions about your podcast's audio identity.
+Answer the following questions about your podcast's audio identity.
 
 ### Q1: What are the keywords that you would use to describe your podcast's chosen audio?
 
-TODO: Provide a list of keywords that describe your podcast's audio
+Provide a list of keywords that describe your podcast's audio
+- Chill
+- Soft
+- Underwhelming
 
 ### Q2: What are the some of the sonic styles that you hear in the chosen podcast audio?
 
-TODO: Answer the question "How would you describe the chosen audio's sonic styles in one or two sentences?""""
+Answer the question "How would you describe the chosen audio's sonic styles in one or two sentences?""""
+
+I will use the same audio for the intro and outro, so the sonic style should be the same for both. Fade out on both.
 
 ### Q3: Who is the target audience that will most identify with your chosen audio?
 
-TODO: Provide a one or two sentence description of the podcast's target audience.
+Provide a one or two sentence description of the podcast's target audience.
+
+The target audience is someone who is listening to teh podcast in a calm environment.
 
 ### Q4: What makes your podcast audio special and different from other podcast audio tracks you have heard?
 
-TODO: Provide one or two sentences that describe the unique aspects of your podcast.
+Provide one or two sentences that describe the unique aspects of your podcast.
+
+In my audio, there is a ukulele which I doubt others have.
 
 ### Q5: What are other podcasts that inspire you and what do you like about their music?
 
-TODO: Provide one or two sentences that describe the unique aspects of your podcast.
+Provide one or two sentences that describe the unique aspects of your podcast.
+
+Matt and Shane's Secret Podcast, their audio smaples a song that summarizes the randomness of their podcast.
 
 ### Q6: What is the license under which it is possible to use your chosen audio on the podcast?
 
-TODO: Provide a clear statement of the license for the chosen audio.
+Provide a clear statement of the license for the chosen audio.
+
+[Link](https://policies.google.com/terms/generative-ai)
+
+This site uses ai to generate audio using different keywords.
 
 ## ✨ Details about the Podcast's Intro and Outro Music
 
-TODO: Provide a list with the required information
+Provide a list with the required information
 
-TODO: Make sure that there is a valid Markdown link and that it
+Make sure that there is a valid Markdown link and that it
 is in a list item with the label `Link to the Web Site that Provided/Created Your Audio` in bold.
 
-TODO: Make sure that there is a valid Markdown link and that it is in a list
+Make sure that there is a valid Markdown link and that it is in a list
 with the label `Link to the Audio File in Your GitHub Repository` in bold.
 
-TODO: The first link should be to a reputable podcast music site.
+The first link should be to a reputable podcast music site.
 
-TODO: The second link should be to the file in your GitHub repository.
+The second link should be to the file in your GitHub repository.
 Importantly, you can link to the designated file in your GitHub repository by
 using the relative path to the file given as `../../audio/podcast_audio.mp3`!
 
-TODO: Make sure to confirm with both one of your peer editors and the course
+Make sure to confirm with both one of your peer editors and the course
 instructor that it is possible to click the provided links and access your content.
+- **Link to the Web Site that Provided/Created Your Audio**: [Text](https://aitestkitchen.withgoogle.com/tools/music-fx)
+- **Link to the Audio File in Your GitHub Repository**: [Text](https://github.com/ExpositionEngineering/fs-102-exposition-engineering-podcast-audio-identity-Dawsont03/blob/main/audio/podcast_audio.mp3)
