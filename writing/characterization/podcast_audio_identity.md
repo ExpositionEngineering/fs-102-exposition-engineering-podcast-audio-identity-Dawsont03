@@ -101,6 +101,8 @@ Provide a clear statement of the license for the chosen audio.
 
 [Link](https://policies.google.com/terms/generative-ai)
 
+This site uses ai to generate audio using different keywords.
+
 ## ✨ Details about the Podcast's Intro and Outro Music
 
 Provide a list with the required information
